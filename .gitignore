@@ -1,15 +1,25 @@
 # Ignore Jupyter temporary files
 .ipynb_checkpoints/
-
-# Ignore datasets
-raw_data/
-*.csv
-*.zip
-*.xlsx
-
-# Ignore Python cache
 __pycache__/
-*.pyc
 
-# Ignore passwords/keys
-.env
+# ----------------------------------
+# PARTE 1
+# ----------------------------------
+PARTE1/INPUT/*
+!PARTE1/INPUT/.gitkeep
+
+PARTE1/OUTPUTS/*
+!PARTE1/OUTPUTS/.gitkeep
+
+PARTE1/raw_data/
+
+# ----------------------------------
+# PARTE 2
+# ----------------------------------
+PARTE2/INPUT/*
+!PARTE2/INPUT/.gitkeep
+
+PARTE2/OUTPUTS/*
+!PARTE2/OUTPUTS/.gitkeep
+
+PARTE2/raw_data/
