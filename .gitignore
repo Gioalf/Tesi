@@ -1,0 +1,15 @@
+# Ignore Jupyter temporary files
+.ipynb_checkpoints/
+
+# Ignore datasets
+raw_data/
+*.csv
+*.zip
+*.xlsx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore passwords/keys
+.env
