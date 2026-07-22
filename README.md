@@ -36,3 +36,7 @@ To run these notebooks, ensure you have a standard Python 3 environment installe
    * `2_Macro_Weekly_Summary.csv`
 
 *Note: Raw data files and generated outputs are intentionally excluded from this repository via `.gitignore` to maintain a lightweight codebase.*
+
+##DATA INPUT:
+* **Part 1:** I dati richiesti per la parte 1 sono ottenuti tramite interrogazione su PIC ``
+* **Part 2:** I dati richiesti per la parte 2 sono ottenuti tramite interrogazione su PIC `Puntualità e Ritardi Località - Anno corrente e precedente` e `Tipo Ritardo = 'Partenza dalla Località'`
